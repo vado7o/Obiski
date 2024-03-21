@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "998058168464",
+    "firebase_url": "https://obiski-406a3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "obiski-406a3",
+    "storage_bucket": "obiski-406a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998058168464:android:fa70e5cd02c87bc6100815",
+        "android_client_info": {
+          "package_name": "com.example.obiski"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOT3oH_kMBRaP5A_zaBsMywPJ9jRkjcqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
